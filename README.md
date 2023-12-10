@@ -2,4 +2,4 @@
 
 Add text from PC
 
-Fdd text from Github.com
+Add text from Github.com
