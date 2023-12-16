@@ -7,3 +7,5 @@ Add text from Github.com
 Add another text from PC
 
 Add text inside new branch from PC
+
+Add text inside new branch again
