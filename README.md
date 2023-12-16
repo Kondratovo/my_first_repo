@@ -8,4 +8,4 @@ Add another text from PC
 
 Add text inside new branch from PC
 
-maked the conflict
+разрешаем конфликт
